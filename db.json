@@ -1,0 +1,196 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "model": "Pixel 7 Pro",
+      "releaseDate": "2023",
+      "category": 1,
+      "recommendedPrice": 899,
+      "description": "A powerful phone with a great camera system.",
+      "visible": true,
+      "createdAt": 1604563200001
+    },
+    {
+      "id": 2,
+      "model": "Galaxy Z Fold4",
+      "releaseDate": "2023",
+      "category": 1,
+      "recommendedPrice": 1799,
+      "description": "A foldable phone with a large display.",
+      "visible": true,
+      "createdAt": 1609459200002
+    },
+    {
+      "id": 3,
+      "model": "MacBook Air M2",
+      "releaseDate": "2022",
+      "category": 1,
+      "recommendedPrice": 1299,
+      "description": "A thin and light laptop with a powerful M2 chip.",
+      "visible": true,
+      "createdAt": 1640995200003
+    },
+    {
+      "id": 4,
+      "model": "Sony WH-1000XM5",
+      "releaseDate": "2022",
+      "category": 3,
+      "recommendedPrice": 400,
+      "description": "Wireless headphones with excellent noise cancellation.",
+      "visible": true,
+      "createdAt": 1668822400004
+    },
+    {
+      "id": 5,
+      "model": "Samsung Galaxy Watch 5",
+      "releaseDate": "2023",
+      "category": 8,
+      "recommendedPrice": 349,
+      "description": "A smartwatch with advanced health tracking features.",
+      "visible": false,
+      "createdAt": 1681507200005
+    },
+    {
+      "id": 6,
+      "model": "Nest Thermostat",
+      "releaseDate": "2020",
+      "category": 4,
+      "recommendedPrice": 219,
+      "description": "A smart thermostat that can learn your heating and cooling preferences.",
+      "visible": true,
+      "createdAt": 1577836800006
+    },
+    {
+      "id": 7,
+      "model": "Ring Video Doorbell Pro 2",
+      "releaseDate": "2022",
+      "category": 7,
+      "recommendedPrice": 249,
+      "description": "A video doorbell with night vision and motion detection.",
+      "visible": true,
+      "createdAt": 1580518400007
+    },
+    {
+      "id": 8,
+      "model": "Sony PlayStation 5",
+      "releaseDate": "2020",
+      "category": 9,
+      "recommendedPrice": 499,
+      "description": "A next-generation gaming console with powerful graphics.",
+      "visible": true,
+      "createdAt": 1610044800009
+    },
+    {
+      "id": 9,
+      "model": "Google Nest Hub (2nd generation)",
+      "releaseDate": "2021",
+      "category": 3,
+      "recommendedPrice": 99,
+      "description": "A smart display with Google Assistant that can be used for controlling smart home devices, watching videos, and more.",
+      "visible": false,
+      "createdAt": 1640908800010
+    },
+    {
+      "id": 10,
+      "model": "Apple Airpods Pro (2nd generation)",
+      "releaseDate": "2022",
+      "category": 3,
+      "recommendedPrice": 249,
+      "description": "Wireless earbuds with active noise cancellation and improved audio quality.",
+      "visible": true,
+      "createdAt": 1672406400055
+    },
+    {
+      "id": 11,
+      "model": "Samsung Galaxy S23 Ultra",
+      "releaseDate": "2023",
+      "category": 1,
+      "recommendedPrice": 1188,
+      "description": "A high-end phone with a powerful camera system and S Pen stylus support.",
+      "visible": true,
+      "createdAt": 1675728000034
+    },
+    {
+      "id": 12,
+      "model": "LG OLED C2 Series TV",
+      "releaseDate": "2022",
+      "category": 3,
+      "recommendedPrice": 1499,
+      "description": "A high-end OLED TV with excellent picture quality and gaming features.",
+      "visible": true,
+      "createdAt": 1678972800052
+    },
+    {
+      "id": 13,
+      "model": "Instant Pot Duo Crisp",
+      "releaseDate": "2021",
+      "category": 4,
+      "recommendedPrice": 79,
+      "description": "A multi-cooker that can pressure cook, air fry, slow cook, and more.",
+      "visible": true,
+      "createdAt": 1682092800540
+    },
+    {
+      "id": 14,
+      "model": "Dyson V15 Detect Absolute",
+      "releaseDate": "2022",
+      "category": 5,
+      "recommendedPrice": 699,
+      "description": "A cordless stick vacuum with laser dust detection and advanced cleaning features.",
+      "visible": true,
+      "createdAt": 1685222400850
+    },
+    {
+      "id": 15,
+      "model": "Ecobee Smart Thermostat with Voice Control",
+      "releaseDate": "2022",
+      "category": 4,
+      "recommendedPrice": 249,
+      "description": "A smart thermostat with built-in voice control and Alexa integration.",
+      "visible": true,
+      "createdAt": 1688352000333
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "label": "Computing Devices"
+    },
+    {
+      "id": 2,
+      "label": "Communication Devices"
+    },
+    {
+      "id": 3,
+      "label": "Consumer Electronics"
+    },
+    {
+      "id": 4,
+      "label": "Home Appliances"
+    },
+    {
+      "id": 5,
+      "label": "Medical Devices"
+    },
+    {
+      "id": 6,
+      "label": "Industrial Devices"
+    },
+    {
+      "id": 7,
+      "label": "Security Devices"
+    },
+    {
+      "id": 8,
+      "label": "Wearable Devices"
+    },
+    {
+      "id": 9,
+      "label": "Gaming Devices"
+    },
+    {
+      "id": 10,
+      "label": "Internet of Things (IoT) Devices"
+    }
+  ]
+}
